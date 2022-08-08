@@ -1,7 +1,6 @@
-package jung.prac.jung_board.board.repository;
+package jung.prac.jung_board.board.answer.repository;
 
-import jung.prac.jung_board.board.entity.Answer;
-import jung.prac.jung_board.board.entity.Question;
+import jung.prac.jung_board.board.answer.entity.Answer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

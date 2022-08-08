@@ -1,9 +1,9 @@
 package jung.prac.jung_board;
 
-import jung.prac.jung_board.board.entity.Answer;
-import jung.prac.jung_board.board.entity.Question;
-import jung.prac.jung_board.board.repository.AnswerRepository;
-import jung.prac.jung_board.board.repository.QuestionRepository;
+import jung.prac.jung_board.board.answer.entity.Answer;
+import jung.prac.jung_board.board.question.entity.Question;
+import jung.prac.jung_board.board.answer.repository.AnswerRepository;
+import jung.prac.jung_board.board.question.repository.QuestionRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

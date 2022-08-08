@@ -1,5 +1,6 @@
-package jung.prac.jung_board.board.entity;
+package jung.prac.jung_board.board.question.entity;
 
+import jung.prac.jung_board.board.answer.entity.Answer;
 import lombok.*;
 
 import javax.persistence.*;

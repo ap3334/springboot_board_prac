@@ -1,5 +1,6 @@
-package jung.prac.jung_board.board.entity;
+package jung.prac.jung_board.board.answer.entity;
 
+import jung.prac.jung_board.board.question.entity.Question;
 import lombok.Getter;
 import lombok.Setter;
 

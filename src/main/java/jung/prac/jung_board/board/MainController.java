@@ -1,4 +1,4 @@
-package jung.prac.jung_board.board.controller;
+package jung.prac.jung_board.board;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
