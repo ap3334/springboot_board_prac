@@ -21,6 +21,6 @@ public class Answer {
     @Column(columnDefinition = "TEXT")
     private String content;
 
-    private LocalDateTime create_date;
+    private LocalDateTime createDate;
 
 }
